@@ -1,2 +1,2 @@
 # learn_opengl
-codebase learn opengl.
+codebase to learn opengl.
